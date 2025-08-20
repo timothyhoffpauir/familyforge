@@ -25,6 +25,9 @@ htmlcov/
 .pyre/
 .ruff_cache/
 
+#VS
+.vs/
+
 # --- Apps & data ---
 *.sqlite
 *.sqlite3
